@@ -1,0 +1,4 @@
+C:\Users\fips\Dropbox\2019_BA\03_Visual_Studio\04_Windows_Forms_App\20190805_DM30_final\DM30_final\DM30_final\obj\Release\DM30_final.Form1.resources
+C:\Users\fips\Dropbox\2019_BA\03_Visual_Studio\04_Windows_Forms_App\20190805_DM30_final\DM30_final\DM30_final\obj\Release\DM30_final.Properties.Resources.resources
+C:\Users\fips\Dropbox\2019_BA\03_Visual_Studio\04_Windows_Forms_App\20190805_DM30_final\DM30_final\DM30_final\obj\Release\DM30_final.csproj.GenerateResource.cache
+C:\Users\fips\Dropbox\2019_BA\03_Visual_Studio\04_Windows_Forms_App\20190805_DM30_final\DM30_final\DM30_final\obj\Release\DM30_final.csproj.CoreCompileInputs.cache
